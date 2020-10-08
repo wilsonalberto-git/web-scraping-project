@@ -3,7 +3,7 @@
 
 # 1. Introduction
 
-This project illustrates a case study where an unknown organisation which appears to offer services in the Information & Communication Technology (ICT) field. This company requires to recruit the most competitive data scientist professionals in the job market. Two main objectives/questions of this project are (1) determining the critical factors that predict salary amount for this type of professionals, and (2) establishing the relevant components that can distinguish job categories or titles.  Similarly, the project aims at applying the concepts that have been learnt in the data science immersive course, in this particular case, web scrapping, Exploratory Data Analysis (EDA), and modelling.
+This project illustrates a case study where an organisation which appears to offer services in the Information & Communication Technology (ICT) field. This company requires to recruit the most competitive data scientist professionals in the job market. Two main objectives/questions of this project are (1) determining the critical factors that predict salary amount for this type of professionals, and (2) establishing the relevant components that can distinguish job categories or titles.  Similarly, the project aims at applying the concepts that have been learnt in the data science immersive course, in this particular case, web scrapping, Exploratory Data Analysis (EDA), and modelling.
 
 # 2. Summary of Research Undertaking
 
